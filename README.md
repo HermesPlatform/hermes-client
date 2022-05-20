@@ -1,2 +1,2 @@
 # hermes-ui
-Hermes frontend and a client implementation and logic to 'hermes-host'
+Hermes frontend and logic communicating with 'hermes-host'
